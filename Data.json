@@ -483,6 +483,14 @@
         {
             "inp": "Analista administrativo",
             "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "backend desarrollador"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "desarrollador backend"
         }
     ]
 }
