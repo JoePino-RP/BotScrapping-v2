@@ -1,0 +1,496 @@
+{
+    "roles": [
+        {
+            "inp": "",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "",
+            "cargo": "business analyst"
+        },
+        {
+            "inp": "",
+            "cargo": "agile coach"
+        },
+        {
+            "inp": "",
+            "cargo": "analista financiero"
+        },
+        {
+            "inp": "",
+            "cargo": "app dynamics"
+        },
+        {
+            "inp": "",
+            "cargo": "applications support"
+        },
+        {
+            "inp": "",
+            "cargo": "arquitecto software"
+        },
+        {
+            "inp": "",
+            "cargo": "desarrollador backend"
+        },
+        {
+            "inp": "",
+            "cargo": "asistente administrativo"
+        },
+        {
+            "inp": "",
+            "cargo": "costumer experience"
+        },
+        {
+            "inp": "",
+            "cargo": "ingeniero datos"
+        },
+        {
+            "inp": "",
+            "cargo": "datbBase administrator"
+        },
+        {
+            "inp": "",
+            "cargo": "coordinador desarrollo"
+        },
+        {
+            "inp": "",
+            "cargo": "desarrollador fullStack"
+        },
+        {
+            "inp": "",
+            "cargo": "it admin"
+        },
+        {
+            "inp": "",
+            "cargo": "tech leader"
+        },
+        {
+            "inp": "",
+            "cargo": "mdm"
+        },
+        {
+            "inp": "",
+            "cargo": "project manager"
+        },
+        {
+            "inp": "",
+            "cargo": "quality assurance"
+        },
+        {
+            "inp": "",
+            "cargo": "scrum master"
+        },
+        {
+            "inp": "",
+            "cargo": "product owner"
+        },
+        {
+            "inp": "",
+            "cargo": "ingeniero soporte"
+        },
+        {
+            "inp": "",
+            "cargo": "tester analyst"
+        },
+        {
+            "inp": "",
+            "cargo": "administrador web application"
+        },
+        {
+            "inp": "",
+            "cargo": "desarrollador Frontend"
+        },
+        {
+            "inp": "",
+            "cargo": "mobile developer"
+        },
+        {
+            "inp": "",
+            "cargo": "desarollador software"
+        },
+        {
+            "inp": "desarrollador .net 3 a\u00c3\u00b1os de experiencia",
+            "cargo": "desarrollador .net"
+        },
+        {
+            "inp": "",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "desarrollador react",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "",
+            "cargo": "desarrollador angular"
+        },
+        {
+            "inp": "",
+            "cargo": "desarrollador node"
+        },
+        {
+            "inp": "",
+            "cargo": "arquitecto salesforce"
+        },
+        {
+            "inp": "",
+            "cargo": "salesforce"
+        },
+        {
+            "inp": "salesforce",
+            "cargo": "salesforce"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "d",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "arquitecto de sofltware",
+            "cargo": "arquitecto software"
+        },
+        {
+            "inp": "arquitecto de software",
+            "cargo": "arquitecto software "
+        },
+        {
+            "inp": "arquitecto de software",
+            "cargo": "arquitecto software"
+        },
+        {
+            "inp": "arquitecto de software",
+            "cargo": "arquitecto software"
+        },
+        {
+            "inp": "arquitecto de software",
+            "cargo": "arquitecto software"
+        },
+        {
+            "inp": "arquitecto de software",
+            "cargo": "software arquitecto"
+        },
+        {
+            "inp": "arquitecto de software",
+            "cargo": "software arquitecto"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "react desarrollador"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "desarrollador React",
+            "cargo": "desarrollador react"
+        },
+        {
+            "inp": "Salesforce Release Manager ",
+            "cargo": "salesforce manager"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "business analyst"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "business analyst"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "business analyst"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "business analyst"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "business analyst"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "analyst business"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "business analyst"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "business analyst"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "business analyst"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "analyst business"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "analyst business"
+        },
+        {
+            "inp": "Business Analyst",
+            "cargo": "analyst business"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "desarrollador backend"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "backend desarrollador"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "desarrollador backend"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "desarrollador backend"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "backend desarrollador"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "backend desarrollador"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Desarrollador Frontend",
+            "cargo": "frontend desarrollador"
+        },
+        {
+            "inp": "Desarrollador Frontend",
+            "cargo": "frontend desarrollador"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "backend desarrollador"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "backend desarrollador"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "backend desarrollador"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "desarrollador backend"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "analista administrativo"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Analista administrativo",
+            "cargo": "administrativo analista"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "backend desarrollador"
+        },
+        {
+            "inp": "Desarrollador Backend",
+            "cargo": "desarrollador backend"
+        }
+    ]
+}
